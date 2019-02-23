@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #c9c9c9 !important;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.nav-wrapper .fa-bars {
+  font-size: 25px;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  padding: 20px;
+}
+
+.idea-text {
+  height: 120px;
+}
+
+.dash-status {
+  text-transform: capitalize;
+}
+
+#delete-form {
+  display: inline;
+}
+
+.border {
+  border: 2px red solid !important;
+}
+
+.color1 {
+  background-color: #89bdd3 !important;
+}
+
+.color2 {
+  background-color: #9ad3de !important;
+}
+
+.color3 {
+  background-color: #e3e3e3 !important;
+}
+
+.color4 {
+  background-color: #c9c9c9 !important;
+}
